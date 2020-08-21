@@ -1,7 +1,7 @@
 concreteStrength
 ==============================
 
-An API based serving example using MLFlow
+An API based serving example using MLFlow.
 
 Project Organization
 ------------
